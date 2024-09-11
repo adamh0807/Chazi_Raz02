@@ -157,7 +157,7 @@ async function getSummary(userId) {
         });
     });
 
-    const functionUrl = 'https://europe-west1-chazi-b7b36.cloudfunctions.net/summarizeQA';
+    const functionUrl = 'https://https://europe-west1-working-vision-bot.cloudfunctions.net/summarizeQA';
 
     const headers = new Headers();
     headers.append('Content-Type', 'application/json');
