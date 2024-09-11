@@ -25,4 +25,4 @@ const provider = new GoogleAuthProvider();
 
 let secretKey;
 
-export { auth, firestore, storage, provider, secretKey };
+export { auth, firestore, storage, provider };
