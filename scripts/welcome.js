@@ -15,7 +15,7 @@ import {
     getDownloadURL,
 } from 'https://www.gstatic.com/firebasejs/9.6.10/firebase-storage.js';
 
-const url = 'https://europe-west1-chazi-b7b36.cloudfunctions.net';
+const url = 'https://europe-west1-working-vision-bot.cloudfunctions.net';
 
 
 async function checkAuthState() {
